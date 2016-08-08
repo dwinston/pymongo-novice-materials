@@ -1,0 +1,7 @@
+CommonMark==0.5.5
+pandocfilters
+PyYAML
+update-copyright
+mongomock
+ipython[notebook]
+pymongo
